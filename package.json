@@ -1,0 +1,22 @@
+{
+  "name": "bkm-payment",
+  "version": "1.0.0",
+  "description": "BKM Payment system javascript client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BKM",
+    "Payment",
+    "Turkey"
+  ],
+  "author": "Murat Demircioglu",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "numeral": "^2.0.6",
+    "ursa": "^0.9.4",
+    "x2js": "^3.2.1"
+  }
+}
